@@ -5,8 +5,9 @@ To fully benchmark outdoor Low-Light Image Enhancement (LLIE), a large-scale and
 
 As RE2L provides more comprehensive information of illumination variations, models targeting outdoor LLIE will be better guided in training towards state-of-the-art results.
 ## Visualization
-.....asdasdasdhauisdhad
-shit
+The figure below demonstrates examples of some selected pairs from RE2L-P. Upper row: normal images; bottom row: low-light images (5% of normal exposure time).
+<img width="632" alt="截屏2022-06-08 下午8 09 45" src="https://user-images.githubusercontent.com/60025126/172612813-d3b125dc-805f-43da-8879-6a7f55873ba4.png">
+
 
 ## Performance
 | First Header  | Second Header |
