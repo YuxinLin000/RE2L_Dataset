@@ -6,10 +6,11 @@ As RE2L provides more comprehensive information of illumination variations, mode
 ## Visualization
 .....asdasdasdhauisdhad
 shit
+
+## Performance
 | First Header  | Second Header |
 | ---------------------------- | --------------- |
 | Content Cell<sub>test</sub>  | Content Cell  |
 | Content Cell  | Content Cell  |
-## Performance
 ## Paper
 ## Use
