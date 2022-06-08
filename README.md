@@ -13,7 +13,8 @@ The figure below demonstrates examples of some selected pairs from RE2L-P. Upper
 ## Performance
 The table below shows quantitative comparisons on LOL and RE2L dataset.
 
-| First Header  | Second Header |
+| Model / Metric  | LOL dataset | RE2L dataset |
+|                 | PSNR | SSIM | PSNR | SSIM  |
 | ---------------------------- | --------------- |
 | Content Cell<sub>test</sub>  | Content Cell  |
 | Content Cell  | Content Cell  |
