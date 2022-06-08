@@ -12,7 +12,14 @@ shit
 | ---------------------------- | --------------- |
 | Content Cell<sub>test</sub>  | Content Cell  |
 | Content Cell  | Content Cell  |
-## Paper
-## Use
+## Paper & Use
 If you find this dataset useful in your research, please cite:
-```test```
+```
+@inproceedings{wen2016,
+  author={Lin, Yuxin and Li, Jian and Guo, Lanqing and Wen, Bihan},
+  title={RE2L: A Real-World Dataset for Outdoor Low-Light Image Enhancemen},
+  year={2022},
+  booktitle={IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR)},
+  pages={???--???}
+}
+```
