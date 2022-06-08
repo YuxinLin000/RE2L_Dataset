@@ -14,27 +14,52 @@ The figure below demonstrates examples of some selected pairs from RE2L-P. Upper
 The table below shows quantitative comparisons on LOL and RE2L dataset.
 
 <table>
-    <caption>Life Expectancy By Current Age</caption>
     <tr>
-        <th colspan="2">65</th>
-        <th colspan="2">40</th>
-        <th colspan="2">20</th>
+        <th>Model / Metric</th>
+        <th colspan="2">LOL dataset</th>
+        <th colspan="2">RE2L dataset</th>
     </tr>
     <tr>
-        <th>Men</th>
-        <th>Women</th>
-        <th>Men</th>
-        <th>Women</th>
-        <th>Men</th>
-        <th>Women</th>
+        <td>KinD<sub>original</sub></td>
+        <td>20.38</td>
+        <td>0.83</td>
+        <td>12.92</td>
+        <td>0.77</td>
     </tr>
     <tr>
-        <td>82</td>
-        <td>85</td>
-        <td>78</td>
-        <td>82</td>
-        <td>77</td>
-        <td>81</td>
+        <td>KinD<sub>RE2L-P</sub></td>
+        <td>21.42</td>
+        <td>0.85</td>
+        <td>12.03</td>
+        <td>0.71</td>
+    </tr>
+    <tr>
+        <td>EnlightenGAN<sub>original</sub></td>
+        <td>13.72</td>
+        <td>0.61</td>
+        <td>10.18</td>
+        <td>0.59</td>
+    </tr>
+    <tr>
+        <td>EnlightenGAN<sub>RE2L-P</sub></td>
+        <td>17.87</td>
+        <td>0.70</td>
+        <td>16.55</td>
+        <td>0.77</td>
+    </tr>
+    <tr>
+        <td>Zero-DCE<sub>original</sub></td>
+        <td>14.86</td>
+        <td>0.59</td>
+        <td>10.26</td>
+        <td>0.63</td>
+    </tr>
+    <tr>
+        <td>Zero-DCE<sub>RE2L-P</sub></td>
+        <td>14.59</td>
+        <td>0.59</td>
+        <td>9.61 </td>
+        <td>0.62</td>
     </tr>
 </table>
 
