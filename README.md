@@ -63,37 +63,12 @@ The table below shows quantitative comparisons on LOL and RE2L dataset.
     </tr>
 </table>
 
+Some enhancements results are presented in the pictures below:
 
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
-</table>
+<img width="588" alt="截屏2022-06-08 下午8 57 28" src="https://user-images.githubusercontent.com/60025126/172622091-ce4e4170-58fe-4dd0-9e5a-03abbc58213e.png">
 
-| test1 | test2 | test3 |  | test4 | test4 |
-|-------|-------|-------|-------|-------|-------|
-| a     | a     | a     | a     | a     | a     |
+<img width="587" alt="截屏2022-06-08 下午8 58 00" src="https://user-images.githubusercontent.com/60025126/172622206-b92a59d1-e4a3-4f3c-b135-34a982e0c7c5.png">
+
 ## Paper & Use
 All data is subject to copyright and may only be used for non-commercial research. 
 If you find this dataset useful in your research, please cite:
