@@ -13,15 +13,62 @@ The figure below demonstrates examples of some selected pairs from RE2L-P. Upper
 ## Performance
 The table below shows quantitative comparisons on LOL and RE2L dataset.
 
-<table style='border:1px;'>
-<tr> test </tr>
+<table>
+    <caption>Life Expectancy By Current Age</caption>
+    <tr>
+        <th colspan="2">65</th>
+        <th colspan="2">40</th>
+        <th colspan="2">20</th>
+    </tr>
+    <tr>
+        <th>Men</th>
+        <th>Women</th>
+        <th>Men</th>
+        <th>Women</th>
+        <th>Men</th>
+        <th>Women</th>
+    </tr>
+    <tr>
+        <td>82</td>
+        <td>85</td>
+        <td>78</td>
+        <td>82</td>
+        <td>77</td>
+        <td>81</td>
+    </tr>
 </table>
-| Model / Metric  | LOL dataset | RE2L dataset | ---- | ----  |
-| ----------------| PSNR | SSIM | PSNR | SSIM  |
-| --------------- | --------------- | ---- | ---- | ---- |
-| Content Cell<sub>test</sub>  | Content Cell  | ---- | ---- | ---- |
-| Content Cell  | Content Cell  | ---- | ---- | ---- |
 
+
+<table>
+    <thead>
+        <tr>
+            <th>Layer 1</th>
+            <th>Layer 2</th>
+            <th>Layer 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>L3 Name C</td>
+        </tr>
+        <tr>
+            <td>L3 Name D</td>
+        </tr>
+    </tbody>
+</table>
+
+| test1 | test2 | test3 |  | test4 | test4 |
+|-------|-------|-------|-------|-------|-------|
+| a     | a     | a     | a     | a     | a     |
 ## Paper & Use
 All data is subject to copyright and may only be used for non-commercial research. 
 If you find this dataset useful in your research, please cite:
