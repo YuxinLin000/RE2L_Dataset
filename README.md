@@ -11,7 +11,7 @@ The figure below demonstrates examples of some selected pairs from RE2L-P. Upper
 
 
 ## Performance
-The table below shows quantitative comparisons on LOL and RE2L dataset.
+The table below shows quantitative comparisons on LOL and RE2L dataset. Best highlighted in <b>bold</b>.
 
 <table>
     <tr>
@@ -50,6 +50,9 @@ Some enhancements results are presented in the pictures below:
 
 ## Use
 All data is subject to copyright and may only be used for non-commercial research. 
+Kindly drop <img width="191" alt="image" src="https://user-images.githubusercontent.com/66542568/172624933-96c74dea-f2c4-4cdd-a7ac-1a901e2b9e1e.png">
+ an email for any questions.
+
 If you find this dataset useful in your research, please cite:
 ```
 @inproceedings{lin2022,
