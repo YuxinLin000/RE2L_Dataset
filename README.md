@@ -21,24 +21,24 @@ The table below shows quantitative comparisons on LOL and RE2L dataset.
     </tr>
     <tr rowspan="2">
         <td>KinD<sub>original</sub><br/>KinD<sub>RE2L-P</sub></td>
-        <td>20.38<br/>21.42</td>
-        <td>0.83<br/>0.85</td>
-        <td>12.92<br/>12.03</td>
-        <td>0.77<br/>0.71</td>
+        <td>20.38<br/><b>21.42</b></td>
+        <td>0.83<br/><b>0.85</b></td>
+        <td><b>12.92</b><br/>12.03</td>
+        <td><b>0.77</b><br/>0.71</td>
     </tr>
     <tr rowspan="2">
-        <td>EnlightenGAN<sub>original</sub><br/></td>
-        <td>13.72<br/>17.87</td>
-        <td>0.61<br/>0.70</td>
-        <td>10.18<br/>16.55</td>
-        <td>0.59<br/>0.77</td>
+        <td>EnlightenGAN<sub>original</sub><br/>EnlightenGAN<sub>RE2L-P</sub></td>
+        <td>13.72<br/><b>17.87</b></td>
+        <td>0.61<br/><b>0.70</b></td>
+        <td>10.18<br/><b>16.55</b></td>
+        <td>0.59<br/><b>0.77</b></td>
     </tr>
     <tr>
         <td>Zero-DCE<sub>original</sub><br/>Zero-DCE<sub>RE2L-P</sub></td>
-        <td>14.86<br/>14.59</td>
-        <td>0.59<br/>0.59</td>
-        <td>10.26<br/>9.61</td>
-        <td>0.63<br/>0.62</td>
+        <td><b>14.86</b><br/>14.59</td>
+        <td><b>0.59</b><br/><b>0.59</b></td>
+        <td><b>10.26</b><br/>9.61</td>
+        <td><b>0.63</b><br/>0.62</td>
     </tr>
 </table>
 
