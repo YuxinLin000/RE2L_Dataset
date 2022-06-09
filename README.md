@@ -3,9 +3,12 @@ This dataset accompanies the following publication: "RE2L: A Real-World Dataset 
 
 Download: <a href="https://entuedu-my.sharepoint.com/:f:/g/personal/liny0090_e_ntu_edu_sg/EgJt0AXkbe5AvbGIWuFTYsIBcoaXmgFAID4JQS594LkDjQ?e=alQmAl">OneDrive Link</a>
 ## Dataset description
-To fully benchmark outdoor Low-Light Image Enhancement (LLIE), a large-scale and real-world low-light dataset with naturally changed illumination environment is needed. In this work, we propose a novel REal-world 2-dimentional Low-light dataset, dubbed RE2L, which is acquired not only based on manually adjusted exposure level (i.e., the exposure dimension in RE2L), but also collecting images at different times of a day to capture the natural light change (i.e., timing dimension) where complex outdoor lighting conditions are well-captured. 
+In this work, we propose a novel REal-world 2-dimentional Low-light (RE2L) dataset with naturally changed illumination environment. It is acquired not only based on manually adjusted exposure level (i.e., the exposure dimension in RE2L), but also collecting images at different times of a day to capture the natural light change (i.e., timing dimension) where complex outdoor lighting conditions are well-captured. 
 
 As RE2L provides more comprehensive information of illumination variations, models targeting outdoor LLIE will be better guided in training towards state-of-the-art results.
+
+The download link above contains both the original dataset (RE2L) and the paired version (RE2L-P, natural light vs -0.95 exposure).
+
 ## Visualization
 The figure below demonstrates examples of some selected pairs from RE2L-P. Upper row: normal images; bottom row: low-light images (5% of normal exposure time).
 
